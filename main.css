@@ -1,0 +1,15 @@
+body {
+ background-color: rgb(115, 128, 153);
+}
+button {
+    text-align: center;
+    color: white;
+    padding: 4px;
+    margin: 4px;
+    border: 2px double rgb(55, 158, 98);
+    background-color: black;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: darkmagenta;
+}
